@@ -2,4 +2,5 @@
 title: Unix Superhero's Blog
 ---
 
-Testing the idea of using github pages as a blog.
+Random thoughts about software and being a developer.
+
