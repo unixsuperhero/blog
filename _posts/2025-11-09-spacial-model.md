@@ -1,6 +1,10 @@
+---
+title: "Spacial Model of an App"
+date: 2025-11-09
+---
 Okay, so I wanna talk about the spatial model of your app. This is maybe more conceptual and more how you think about your own app.
 
-![[Pasted image 20251108165238.png]]
+![[spacial_model.png]]
 ## bullet points
 
 ### general
