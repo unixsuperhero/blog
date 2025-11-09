@@ -4,7 +4,7 @@ date: 2025-11-09
 ---
 Okay, so I wanna talk about the spatial model of your app. This is maybe more conceptual and more how you think about your own app.
 
-![Spacial Model]({{ site.url }}/images/spacial_model.png)
+![Spacial Model](/assets/images/spacial_model.png)
 
 ## bullet points
 
