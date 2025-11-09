@@ -15,6 +15,7 @@ Okay, so I wanna talk about the spatial model of your app. This is maybe more co
 	- push complexity down
 - rails history and service object syndrome
 - a big part of good software is identifying/labeling/classifying code
+
 ### controllers
 
 if your app isn't a web app, or doesn't follow mvc, then where code execution starts in your app might be different, but for classic backend web framework it's a controller.
@@ -22,6 +23,7 @@ if your app isn't a web app, or doesn't follow mvc, then where code execution st
 this is where we take the data we receive and do something worthwhile with it.
 
 it has one foot in the framework and one in your app
+
 ### service layer
 
 your service layer should be thin and not do any heavy lifting.  I'll explain more later (see: [[procedural thinking|Procedural Thinking and Service Obj Syndrome]])
@@ -30,6 +32,7 @@ business logic and high level behavior should live here and be isolated here.
 
 #### service object syndrome
 
+...
 
 ### app core
 
