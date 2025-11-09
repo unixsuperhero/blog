@@ -1,6 +1,6 @@
 ---
 title: "Procedural Thinking and Service Object Syndrome"
-date: 2025-11-10
+date: 2025-11-09
 ---
 
 I see a lot misconceptions about traditional "good practices" in software.
