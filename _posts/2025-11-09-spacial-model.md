@@ -32,11 +32,27 @@ business logic and high level behavior should live here and be isolated here.
 
 #### service object syndrome
 
-...
+This deserves it's own write-up.
 
-### app core
+But basically, the service object pattern is supposed to be a pattern used
+when you need to write a procedure and encapsulate business logic.
 
-...
+Instead, it has become the default pattern when making anything besides a
+model, view, or controller.
+
+It's supposed to be the exception, instead it has become the rule.
+
+Developers now think about all code as a procedure, which leads to a lot of
+misunderstandings about classic principles and "good practices".
+
+I call this, "procedural thinking" and it's a common mistake developers
+make.  It infects their whole mental model of programming.
+
+### Core Application
+
+This is a big `fill-in-the-blank` right now.
+How it looks can change from app to app.
+But really, I just want to talk about it in more detail later.
 
 ### low level & inner boundary
 
