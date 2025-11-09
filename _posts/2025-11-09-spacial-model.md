@@ -64,7 +64,7 @@ the lowest level is about enabling and possibilities.  without limitations
 
 ## service object syndrome
 
-
+i see this a lot.  (insert v3 spacial image diagram)
 
 ### organization
 
