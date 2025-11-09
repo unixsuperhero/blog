@@ -7,3 +7,5 @@ date: 2025-11-09
 
 testing
 
+[Spacial Model](/blog/catalog/spacial-model.html)
+
