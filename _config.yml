@@ -3,5 +3,8 @@ plugins:
   - jekyll-remote-theme
 minima:
   skin: dark
+header_pages:
+  - blog.md
+  - catalog.md
 image_url: /blog/assets/images
 catalog_base: /blog/catalog
