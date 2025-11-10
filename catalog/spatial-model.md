@@ -1,7 +1,7 @@
 # Introduction: Spatial Model of an App
 
-A lot of the information you will find in the [Catalog]({{
-site.catalog_page }}) is not new information.
+A lot of the information you will find in the [Catalog]({{ site.catalog_page }})
+is not new information.
 
 However, these ideas have been lots for one reason or another.
 
