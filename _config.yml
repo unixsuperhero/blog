@@ -4,3 +4,4 @@ plugins:
 minima:
   skin: dark
 image_url: /blog/assets/images
+catalog_base: /blog/catalog

@@ -1,11 +1,15 @@
 ---
-title: "the catalog index"
+title: "catalog index"
 date: 2025-11-09
 ---
 
-# This is a test
+# Catalog
 
-testing
+1. [Spacial Model]({{ site.catalog_base }}/spacial-model.html)
+1. [placeholder: Procedural Thinking]({{ site.catalog_base }}/procedural-thinking.html)
+1. [placeholder: Rules of Separation]({{ site.catalog_base }}/rules-of-separation.html)
 
-[Spacial Model](/blog/catalog/spacial-model.html)
+# Unsorted
+
+- [What TDD Gets Right]({{ site.catalog_base }}/tdd.html)
 
