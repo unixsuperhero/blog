@@ -1,9 +1,11 @@
-# Introduction: Spatial Model of an App
+---
+title: "Introduction: Spatial Model of an App"
+---
 
 A lot of the information you will find in the [Catalog]({{ site.catalog_page }})
 is not new information.
 
-However, these ideas have been lots for one reason or another.
+However, these ideas have been lost for one reason or another.
 
 Here, we will look at 2 simplified models of an app,
 specifically modeling a traditional web app.  However, these
