@@ -1,11 +1,14 @@
+title: "Unix Superhero"
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 minima:
   skin: dark
-header_files:
-  - blog.md
-  - catalog.md
+header_links:
+  - title: "Good Practice"
+    url: /blog/catalog.html
+  - title: "Blog"
+    url: /blog/index.html
 image_url: /blog/assets/images
 catalog_page: /blog/catalog.html
 catalog_dir: /blog/catalog
