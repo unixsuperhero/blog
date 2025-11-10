@@ -75,7 +75,7 @@ different shapes depending on the app and its problem domain.
 Finally, we have Data Objects, Data Models, and Third-party Wrappers that
 make up the final group.  These sections make up the boundary
 between the app and its low-level dependencies like your language's stdlib
-and the third-party packages your app relies on.
+and the third-party packages and services your app depends on.
 
 
 
