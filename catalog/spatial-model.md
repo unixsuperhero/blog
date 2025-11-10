@@ -21,9 +21,12 @@ routing aren't included.
 
 # The First Model
 
-![]({{ site.image_url }}/spacial_model.02.png)
+![]({{ site.image_url }}/spacial_model.03.service_object_syndrome.png)
+
+This model is not the ideal model, but it is what I've seen teams build often.
+
 
 # The Second Model
 
-![]({{ site.image_url }}/spacial_model.03.service_object_syndrome.png)
+![]({{ site.image_url }}/spacial_model.02.png)
 
