@@ -2,6 +2,8 @@
 title: "Introduction: Spatial Model of an App"
 ---
 
+**NOTE:** This is still a draft.
+
 A lot of the information you will find in the [Catalog]({{ site.catalog_page }})
 is not new information.
 
@@ -23,8 +25,26 @@ routing aren't included.
 
 ![]({{ site.image_url }}/spacial_model.03.service_object_syndrome.png)
 
-This model is not the ideal model, but it is what I've seen teams build often.
+This model is not the ideal model, but it is what I've seen often.
 
+### A Small History Lesson
+
+Let's talk about Rails.
+
+Since Rails first became popular, the projects people build with it have seen
+the same issue over and over in different forms.
+
+First, it was Fat Controllers.  People were loading all of the app's logic in
+the controllers.  As a result, controllers were painful to manage.
+
+Then, the logic was moved from the controllers to the models.  As a result, Fat
+Models became the new bucket where all the app's logic was store.
+
+Finally, Service Objects became popular.  Ever since, services became the
+pattern that houses everything.
+
+I don't blame people for being told one thing and sticking to it.  But Service
+Objects introduce their own flavor of issues.
 
 # The Second Model
 
