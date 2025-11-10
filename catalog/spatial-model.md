@@ -16,6 +16,9 @@ non-web apps.  In that case, some of the sections should probably be renamed.
 These models broadly represent how I think of an app spatially. They are not
 meant to be exhaustive or precise.
 
+We are starting the catalog with these models, because they will be a useful
+visual and reference for later sections.
+
 At the top, you have the "entrypoints" into the code. For a web app, there are
 other layers not represented here, but what we care about is the code that we
 control.  So the parts of your web framework that handle things like
@@ -71,7 +74,7 @@ different shapes depending on the app and its problem domain.
 
 Finally, we have Data Objects, Data Models, and Third-party Wrappers that
 make up the final group.  These sections make up the boundary
-between the app and its lower-level dependencies like your language's stdlib
+between the app and its low-level dependencies like your language's stdlib
 and the packages your app relies on.
 
 
