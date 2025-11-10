@@ -91,6 +91,8 @@ A class's level of abstraction influences how it's code should look, the
 language used when naming things, and what values are important which affect
 how you make decisions.
 
+The service objects I see in practice tend to contain all levels of abstraction.
+
 #### Separation and Coupling
 
 The ideal model also includes some components that are often either neglected
