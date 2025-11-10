@@ -7,4 +7,5 @@ header_files:
   - blog.md
   - catalog.md
 image_url: /blog/assets/images
-catalog_base: /blog/catalog
+catalog_page: /blog/catalog.html
+catalog_dir: /blog/catalog
