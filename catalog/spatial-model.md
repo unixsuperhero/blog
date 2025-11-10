@@ -29,10 +29,10 @@ This model is not the ideal model, but it is what I've seen often.
 
 ### A Small History Lesson
 
-Let's talk about Rails.
+Let's talk about Rails, for a minute.
 
-Since Rails first became popular, the projects people build with it have seen
-the same issue over and over in different forms.
+Since Rails first became popular, Rails projects have seen the same issue over
+and over in different forms.
 
 First, it was Fat Controllers.  People were loading all of the app's logic in
 the controllers.  As a result, controllers were painful to manage.
