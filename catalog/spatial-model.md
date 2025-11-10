@@ -78,4 +78,22 @@ between the app and its low-level dependencies like your language's stdlib
 and the third-party packages and services your app depends on.
 
 
+# Why this model?
+
+#### Levels of Abstraction
+
+First and foremost, it reflects the levels of abstraction and how they change
+as we get further from the entrypoint.
+
+Level of Abstraction is a core concept that will come up often.
+
+A class's level of abstraction influences how it's code should look, the
+language used when naming things, and what values are important which affect
+how you make decisions.
+
+#### Separation and Coupling
+
+The ideal model also includes some components that are often either neglected
+or omitted altogether.
+
 
