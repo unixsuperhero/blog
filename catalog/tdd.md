@@ -1,8 +1,3 @@
----
-title: "What TDD Gets Right"
-date: 2025-11-09
----
-
 I'm not a huge advocate for testing, especially TDD.
 
 I won't go into details here.

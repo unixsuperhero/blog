@@ -1,8 +1,3 @@
----
-title: "Spacial Model"
-date: 2025-11-09
----
-
 # Spacial model goes here
 
 this is a placeholder
