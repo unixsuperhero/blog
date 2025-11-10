@@ -50,3 +50,29 @@ Objects introduce their own flavor of issues.
 
 ![]({{ site.image_url }}/spacial_model.02.png)
 
+This is the model is more ideal.  We have 6 main sections in 4 groups.
+
+1. Controllers
+1. Service Layer
+1. Core Application
+1. Data Objects
+1. Data Models
+1. Third-party Wrappers
+
+Controllers sit at the boundary between our framework and our app.
+
+Services make up a **thin layer** of procedures that orchestrate
+the components in our core application.
+
+The Core Application is intentionally a big `fill-in-the-blank` section.  We
+will look at it more closely in later sections of the
+[Catalog]({{ site.catalog_page }}).  For now, just know that it will take
+different shapes depending on the app and its problem domain.
+
+Finally, we have Data Objects, Data Models, and Third-party Wrappers that
+make up the final group.  These sections make up the boundary
+between the app and its lower-level dependencies like your language's stdlib
+and the packages your app relies on.
+
+
+
