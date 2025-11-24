@@ -88,4 +88,39 @@ A well defined data structure is a work of art.
 <!-- A lot of people are hesitant to name and introduce new concepts into an app. -->
 
 
+# Encapsulation
+
+- Encapsulation, specifically Isolation aka Information Hiding
+    - Classes shouldn't expose, or give direct access to, internal state
+    (instance variables)
+    - Interacting with and manipulating state happens via methods
+    - Interface over implementation
+
+Encapsulation is super important.
+
+One of the arguments against small functions is that jumping from function to
+function sucks.  It does, people aren't wrong.
+
+However, if you have good encapsulation, you can have small methods and not
+need to jump around.
+
+Let me explain.
+
+Regardless of what language you use to build software, it has a standard
+library.
+
+For common things that aren't in the standard library, there are well-known
+libraries that fill in the gaps.
+
+When you need more info, you go to the api docs, right?
+
+What do the api docs show you?
+
+Interfaces aka method signatures.  A lot of times, they will also show you the
+code for any methods, but how often have you actually looked at the code?
+
+For most people, the answer is never, unless they were curious.
+
+
+
 
